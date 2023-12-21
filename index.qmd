@@ -1,0 +1,32 @@
+---
+title: "Hey, Nice to Meet You"
+---
+
+
+Welcome to my personal page
+
+![](img/bug.png){width=80%}
+
+# Who I Am
+
+![](img/gustavo_foto_perfil.jpg){width=40%}
+
+📚 Statistician/Last Period - Universidade Federal de Juiz de Fora
+
+😷 Epidemiological Researcher CNPq at JFSalvandoTodos
+
+💹 Working with time series models (ARMAX, GARMAX and NNETAR) for epidemiological forecast
+
+📊 Statistical Consultant for Postgraduate Students
+
+
+# Where You Can Find Me
+
+* ![](img/icon_linkedin.png) [Linkedin](https://www.linkedin.com/in/gustavo-almeida-silva-10aa61204/)
+
+* ![](img/icon_lattes.png) [Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1186510A8&tokenCaptchar=03AFcWeA4BVwHtS-vqDZPpzNHFNn2nXO6trOERBVOx6GjJRWMvOR2kEGWdChGefv4SWTNQBzykO3k9yfRAF-UYt-IGxXr4Sau_QTNpq9Hvv9xeK-qOLGUJyLDEdKRmfLrWRcIUajrJlS3SqkzBBNQVqUM0CZYLR6kQxIOZe1wjqXH9GRKnBbu1Ef75e9GbB5s2rNpRpBer5BiEpUhbsJizOrZqHxNcvcVEaVoCCXCo62t_OV582eBtPM0x2mTa945dShG_Nmo_lNT4bUjUHvVUm3MZGQTNuUuyVyGskD3e40ioriO-YIH3XIl0MN-exdC3hl6jfN3Tbr1pzDZTUsda0XXdW6tmizCKbQob1SN71dzV506dfBn-BUFbWuEMLRJCq3I-2Nn6-pAzhe-B_2C7X_ur4q7qkwrZNXIAhp9diqMtwnbglNjL3yApzbEQQvG8z_fj5bZDNfVFkv6eeRT8yof9FGhreKMz3CFR2yMa9OKO_zuh8Gd7yqvAQoTrSxkcp0krT7oZZGgp5u93-kOEicbVPdAEpV6IzLd8FdPN5kPsVrJ2yx1C25pUpezNaeZpPMr1V1gBhOg2ZlHu2S1RhVshhIQsRbIyTljh2uZsEFsuyF-njqcUTZcCfJIwhGP76BqguoPWsDdo)
+
+* ![](img/icon_email.png) [gustavoalmeidasilva@ice.ufjf.br](gustavoalmeidasilva@ice.ufjf.br)
+
+
+* ![](img/icon_github.png) [Github](https://github.com/Gustavo039)

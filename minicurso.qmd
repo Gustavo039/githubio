@@ -1,0 +1,75 @@
+---
+title: "Minicurso Tidyverse"
+---
+
+```{r, echo = F}
+library(utils)
+```
+
+
+# Materiais de Aulas
+
+[Aula 1](minicurso_tidyverse/aula1.html)
+[Aula 2](minicurso_tidyverse/aula2_tidy_data.html)
+[Aula 3](minicurso_tidyverse/aula3_modificando.html)
+[Aula 4](minicurso_tidyverse/aula4_group_and_join.html)
+[Aula 5](minicurso_tidyverse/aula5_teste_final.html)
+
+# Playlist Youtube
+
+[Canal - Encontros com a Estatística - Dep. Est. Universidade Federal de Juiz de Fora](https://www.youtube.com/watch?v=o8hP1z658ko&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+# Links Individuais
+
+## Aula 1
+
+[Ementa e introdução](https://www.youtube.com/watch?v=AX3M7DpcTuY&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=2&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+[Fluxo de Análise Estatística e os pacotes Tidy](https://www.youtube.com/watch?v=9s3XoG2f_EE&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=3&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+[O Pipe e Funções Anônimas](https://www.youtube.com/watch?v=0pBIYJE6EaE&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=4&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+## Aula 2
+
+[Objetos Tabulares do R](https://www.youtube.com/watch?v=ucdlbpTqYhs&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=5&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+[Dados Organizados](https://www.youtube.com/watch?v=SvTE5GGbx5k&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=6&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+
+[Botando a Mão na Massa](https://www.youtube.com/watch?v=19-eBWSmo2E&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=7&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+[Desafios](https://www.youtube.com/watch?v=DdYB9PDNPog&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=8&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+## Aula 3
+
+[Modificando Variáveis](https://www.youtube.com/watch?v=4FPlU6hHNWI&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=9&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+[MV - Funções Auxiliares](https://www.youtube.com/watch?v=lKZa2Z4z1nY&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=10&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+[Pivotagem](https://www.youtube.com/watch?v=ZV2pHqbm6PI&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=11&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+[Extra - Limpeza Dados Epidemiológicos](https://www.youtube.com/watch?v=r_8RRqpcsZY&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=12&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+[Desafios](https://www.youtube.com/watch?v=0BfWVOFtIJg&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=13&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+## Aula 4
+
+
+[Junção de Pares de Tabelas](https://www.youtube.com/watch?v=bz7KfgV9Mpw&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=14&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+[Dados Agrupados](https://www.youtube.com/watch?v=MXbe5GxyOMo&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=15&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+[Desafios](https://www.youtube.com/watch?v=8LcumY9pZMo&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=16&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+## Aula 5
+
+[Teste Final](https://www.youtube.com/watch?v=4OjQLxR-AKg&list=PLrF2H4nGFuO08eOriOw4oOXpqDCXoD9f3&index=17&ab_channel=EncontroscomaEstat%C3%ADsticaUFJF)
+
+
+
+
+
+[]()
+
+# Emissão Certificado -  PROGRAD Universidade Federal de Juiz de Fora
+

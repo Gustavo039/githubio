@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "18f8dbee"
+  },
+  "projects.qmd": {
+    "projects.html": "d4f159dd"
+  },
+  "minicurso_tidy.qmd": {
+    "minicurso_tidy.html": "7ab7ed60"
+  },
+  "minicurso.qmd": {
+    "minicurso.html": "3f607086"
+  },
+  "mat_ufjf.qmd": {
+    "mat_ufjf.html": "d91c619d"
+  },
+  "arquivos_materias/index.md": {
+    "index.html": "6bd61ce8"
+  }
+}

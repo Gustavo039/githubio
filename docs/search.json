@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "projects.html#project-3",
+    "href": "projects.html#project-3",
+    "title": "Projects",
+    "section": "Project 3",
+    "text": "Project 3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hey, Nice to Meet You",
+    "section": "",
+    "text": "Who I Am\n\n📚 Statistician/Last Period - Universidade Federal de Juiz de Fora\n😷 Epidemiological Researcher CNPq at JFSalvandoTodos\n💹 Working with time series models (ARMAX, GARMAX and NNETAR) for epidemiological forecast\n📊 Statistical Consultant for Postgraduate Students\n\n\nWhere You Can Find Me\n\n Linkedin\n Lattes\n gustavoalmeidasilva@ice.ufjf.br\n Github"
+  },
+  {
+    "objectID": "minicurso_tidy.html",
+    "href": "minicurso_tidy.html",
+    "title": "Aulas Minicurso Tidyverse",
+    "section": "",
+    "text": "Aula 1\n\n\nMinicurso - Tidyverse\nAula 1 Aula 2 Aula 3 Aula 4 Aula 5"
+  },
+  {
+    "objectID": "minicurso.html",
+    "href": "minicurso.html",
+    "title": "Aulas Minicurso Tidyverse",
+    "section": "",
+    "text": "Aula 1\n\n\nMinicurso - Tidyverse\nAula 1 Aula 2 Aula 3 Aula 4 Aula 5"
+  },
+  {
+    "objectID": "minicurso.html#aula-1",
+    "href": "minicurso.html#aula-1",
+    "title": "Minicurso Tidyverse",
+    "section": "Aula 1",
+    "text": "Aula 1\nEmenta e introdução\nFluxo de Análise Estatística e os pacotes Tidy\nO Pipe e Funções Anônimas"
+  },
+  {
+    "objectID": "mat_ufjf.html",
+    "href": "mat_ufjf.html",
+    "title": "Matérias - UFJF",
+    "section": "",
+    "text": "Séries Temporais\nModelagem Consumo Energético no Brasil - Relatório\nModelagem Consumo Energético no Brasil - Apresentação\n\n\nModelos Lineares Generalizados\nModelos Lineares Generalizados Duplos - Artigo\nModelos Lineares Generalizados Duplos - Apresentação\n\n\nAnálise de Regressão\nPredição de Valores de Carros Usados - Relatório\nPredição de Valores de Carros Usados - Apresentação\n\n\nAmostragem 2\nAvaliação Computacional dos Estimadores de Horvitz-Thompson em Planos Complexos - Artigo"
+  },
+  {
+    "objectID": "arquivos_materias/index.html",
+    "href": "arquivos_materias/index.html",
+    "title": "Gustavo Almeida Silva - Portfolio",
+    "section": "",
+    "text": "Aula 1 Aula 2 Aula 3 Aula 4 Aula 5"
+  },
+  {
+    "objectID": "minicurso.html#aula-2",
+    "href": "minicurso.html#aula-2",
+    "title": "Minicurso Tidyverse",
+    "section": "Aula 2",
+    "text": "Aula 2\nObjetos Tabulares do R\nDados Organizados\nBotando a Mão na Massa\nDesafios"
+  },
+  {
+    "objectID": "minicurso.html#aula-3",
+    "href": "minicurso.html#aula-3",
+    "title": "Minicurso Tidyverse",
+    "section": "Aula 3",
+    "text": "Aula 3\nModificando Variáveis\nMV - Funções Auxiliares\nPivotagem\nExtra - Limpeza Dados Epidemiológicos\nDesafios"
+  },
+  {
+    "objectID": "minicurso.html#aula-4",
+    "href": "minicurso.html#aula-4",
+    "title": "Minicurso Tidyverse",
+    "section": "Aula 4",
+    "text": "Aula 4\nJunção de Pares de Tabelas\nDados Agrupados\nDesafios"
+  },
+  {
+    "objectID": "minicurso.html#aula-5",
+    "href": "minicurso.html#aula-5",
+    "title": "Minicurso Tidyverse",
+    "section": "Aula 5",
+    "text": "Aula 5\nTeste Final"
+  }
+]

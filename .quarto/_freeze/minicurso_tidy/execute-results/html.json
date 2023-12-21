@@ -1,0 +1,14 @@
+{
+  "hash": "f13731a6994b1325734b192059571697",
+  "result": {
+    "markdown": "---\ntitle: \"Aulas Minicurso Tidyverse\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(utils)\n```\n:::\n\n\n\n# Aula 1 \n\n# Minicurso - Tidyverse\n[Aula 1](minicurso_tidyverse/aula1.html)\n[Aula 2](minicurso_tidyverse/aula2_tidy_data.html)\n[Aula 3](minicurso_tidyverse/aula3_modificando.html)\n[Aula 4](minicurso_tidyverse/aula4_group_and_join.html)\n[Aula 5](minicurso_tidyverse/aula5_teste_final.html)\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

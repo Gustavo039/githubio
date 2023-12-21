@@ -1,0 +1,34 @@
+---
+title: "Matérias - UFJF"
+---
+
+Essa página tem como objetivo facilitar o acesso e visualização de trabalhos por parte dos docentes de cada disciplina
+
+
+# Séries Temporais
+
+[Modelagem Consumo Energético no Brasil - Relatório](arquivos_materias/AnaliseModelagemdoConsumodeEnergiaElétricanoBrasil.pdf)
+
+[Modelagem Consumo Energético no Brasil - Apresentação](arquivos_materias/relatorio_consumo_energia_br.html)
+
+# Modelos Lineares Generalizados
+
+[Modelos Lineares Generalizados Duplos - Artigo](arquivos_materias/Trabalho_MLG_duplo_artigo.pdf)
+
+[Modelos Lineares Generalizados Duplos - Apresentação](arquivos_materias/Trabalho_MLG_duplo_apresentacao.pdf)
+
+# Análise de Regressão
+
+[Predição de Valores de Carros Usados - Relatório](arquivos_materias/tvc2_car_price.html)
+
+[Predição de Valores de Carros Usados - Apresentação](arquivos_materias/tvc2_car_price.pdf)
+
+# Amostragem 2
+
+[Avaliação Computacional dos Estimadores de Horvitz-Thompson em Planos Complexos - Artigo](arquivos_materias/Trabalho-Amostragem-2.pdf)
+
+
+
+
+
+

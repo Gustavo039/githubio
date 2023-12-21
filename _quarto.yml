@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Gustavo Almeida Silva - Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - minicurso.qmd
+      - mat_ufjf.qmd
+    tools:
+      - icon: github
+        href: https://github.com/Gustavo039
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2023, Gustavo Almeida Silva"
+
+format:
+  html:
+    theme: zephyr
+    toc: true
+
+editor: source
+
