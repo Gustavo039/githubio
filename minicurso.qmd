@@ -14,6 +14,7 @@ library(utils)
 [Aula 3](minicurso_tidyverse/aula3_modificando.html)
 [Aula 4](minicurso_tidyverse/aula4_group_and_join.html)
 [Aula 5](minicurso_tidyverse/aula5_teste_final.html)
+[Aula Extra - Git, GitHub e Rstudio](minicurso_tidyverse/git_github.html)
 
 # Playlist Youtube
 
