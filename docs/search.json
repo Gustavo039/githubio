@@ -30,9 +30,9 @@
   {
     "objectID": "minicurso.html",
     "href": "minicurso.html",
-    "title": "Aulas Minicurso Tidyverse",
+    "title": "Minicurso Tidyverse",
     "section": "",
-    "text": "Aula 1\n\n\nMinicurso - Tidyverse\nAula 1 Aula 2 Aula 3 Aula 4 Aula 5"
+    "text": "Aula 1 Aula 2 Aula 3 Aula 4 Aula 5 Aula Extra - Git, GitHub e Rstudio"
   },
   {
     "objectID": "minicurso.html#aula-1",
@@ -46,7 +46,7 @@
     "href": "mat_ufjf.html",
     "title": "Matérias - UFJF",
     "section": "",
-    "text": "Essa página tem como objetivo facilitar o acesso e visualização de trabalhos por parte dos docentes de cada disciplina\n\nSéries Temporais\nModelagem Consumo Energético no Brasil - Relatório\nModelagem Consumo Energético no Brasil - Apresentação\n\n\nModelos Lineares Generalizados\nModelos Lineares Generalizados Duplos - Artigo\nModelos Lineares Generalizados Duplos - Apresentação\n\n\nAnálise de Regressão\nPredição de Valores de Carros Usados - Relatório\nPredição de Valores de Carros Usados - Apresentação\n\n\nAmostragem 2\nAvaliação Computacional dos Estimadores de Horvitz-Thompson em Planos Complexos - Artigo"
+    "text": "Essa página tem como objetivo facilitar o acesso e visualização de trabalhos por parte dos docentes de cada disciplina\n\nAprendizado de Máquina\nAgrupamento e Modelos de Misturas - Flexmix\nLASSO AdaLASSO e WLAdaLASSO para Séries Temporais\n\n\nSéries Temporais\nModelagem Consumo Energético no Brasil - Relatório\nModelagem Consumo Energético no Brasil - Apresentação\n\n\nModelos Lineares Generalizados\nModelos Lineares Generalizados Duplos - Artigo\nModelos Lineares Generalizados Duplos - Apresentação\n\n\nAnálise de Regressão\nPredição de Valores de Carros Usados - Relatório\nPredição de Valores de Carros Usados - Apresentação\n\n\nAmostragem 2\nAvaliação Computacional dos Estimadores de Horvitz-Thompson em Planos Complexos - Artigo"
   },
   {
     "objectID": "arquivos_materias/index.html",
