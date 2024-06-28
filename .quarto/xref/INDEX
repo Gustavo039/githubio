@@ -16,5 +16,14 @@
   },
   "arquivos_materias/index.md": {
     "index.html": "6bd61ce8"
+  },
+  "jfst.qmd": {
+    "jfst.html": "6b330adc"
+  },
+  "consultoria.qmd": {
+    "consultoria.html": "6c0b440a"
+  },
+  "pacotes.qmd": {
+    "pacotes.html": "707048d2"
   }
 }

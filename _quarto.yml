@@ -3,8 +3,8 @@ project:
   resources:
     - keybase.txt
     - resume.pdf
-    - GustavoASilva_Curriculo_PTBR.pdf
-    - GustavoASilva_Curriculo_EN.pdf
+    - cv/GustavoASilva_Curriculo_PTBR.pdf
+    - cv/GustavoASilva_Curriculo_EN.pdf
   output-dir: docs
   
 website:

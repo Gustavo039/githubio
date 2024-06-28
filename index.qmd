@@ -12,9 +12,9 @@ about:
     - text: Email
       url: "mailto:gustavoalmeidasilva@ice.ufjf.br"
     - text: CV(PT-BR)
-      url: "GustavoASilva_Curriculo_PTBR.pdf"
+      url: "cv/GustavoASilva_Curriculo_PTBR.pdf"
     - text: CV(EN)
-      url: "GustavoASilva_Curriculo_EN.pdf"      
+      url: "cv/GustavoASilva_Curriculo_EN.pdf"      
 comments: false
 ---
 ::: {.column-page}
