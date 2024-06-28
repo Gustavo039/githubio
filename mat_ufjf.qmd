@@ -1,13 +1,12 @@
 ---
-title: "Matérias - UFJF"
+title: "Disciplinas - UFJF"
 ---
 
-Essa página tem como objetivo facilitar o acesso e visualização de trabalhos por parte dos docentes de cada disciplina
+Essa página busca facilitar a entrega e visualização de trabalhos de cada disciplina
 
 # Aprendizado de Máquina
 
 [Agrupamento e Modelos de Misturas - Flexmix](arquivos_materias/relatorio_flexmix.html)
-
 
 [LASSO AdaLASSO e WLAdaLASSO para Séries Temporais](arquivos_materias/LASSO_TS.html)
 

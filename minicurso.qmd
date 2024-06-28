@@ -1,19 +1,33 @@
 ---
-title: "Minicurso Tidyverse"
+title: "Minicurso - Tidyverse"
+image: tidyverse-packages.png
+about:
+  template: trestles
+
 ---
+
+::: {.column-page}
 
 ```{r, echo = F}
 library(utils)
 ```
 
+# Sobre o Curso
+
+O minicurso de introdução a limpeza e manipulação de dados utilizando os pacotes do Tidyverse, oferecido pelo Departamento de Estatística da UFJF, foi ministrado por mim em Dezembro de 2023 para os alunos de todos os campos do conhecimento. As aulas e materiais desenvolvidos podem ser acessados através dessa página
 
 # Materiais de Aulas
 
-[Aula 1](minicurso_tidyverse/aula1.html)
-[Aula 2](minicurso_tidyverse/aula2_tidy_data.html)
-[Aula 3](minicurso_tidyverse/aula3_modificando.html)
-[Aula 4](minicurso_tidyverse/aula4_group_and_join.html)
-[Aula 5](minicurso_tidyverse/aula5_teste_final.html)
+[Aula 1 - Motivação e o Operador Pipe](minicurso_tidyverse/aula1.html)
+
+[Aula 2 - Dados Tidy](minicurso_tidyverse/aula2_tidy_data.html)
+
+[Aula 3 - Modificando Variáveis e Mudando a Forma dos Dados](minicurso_tidyverse/aula3_modificando.html)
+
+[Aula 4 - Pares de Tabelas e Grupos de Variáveis](minicurso_tidyverse/aula4_group_and_join.html)
+
+[Aula 5 - Teste Final](minicurso_tidyverse/aula5_teste_final.html)
+
 [Aula Extra - Git, GitHub e Rstudio](minicurso_tidyverse/git_github.html)
 
 # Playlist Youtube
@@ -73,4 +87,6 @@ library(utils)
 []()
 
 # Emissão Certificado -  PROGRAD Universidade Federal de Juiz de Fora
+
+Solicitações de certificado devem ser realizados até o dia **14/02/2024** através do email  [encontros.estatistica@ice.ufjf.br](mailto:encontros.estatistica@ice.ufjf.br)
 

@@ -1,0 +1,59 @@
+---
+title: "Contato"
+image: logo.png
+about:
+  template: trestles
+  links:
+    - text: Email
+      url: "mailto:gaconsultoriaestat@gmail.com"
+    - text: Whatsapp
+      url: "1399683490"
+---
+
+::: {.column-page}
+
+**GA Consultoria em Estatística: Transforme Seus Dados em Conhecimento**
+
+Você é um estudante de graduação ou pós-graduação e precisa de ajuda com a análise de dados? Na GA Consultoria em Estatística, estamos aqui para ajudar você a transformar seus dados em insights valiosos e resultados de alta qualidade.
+
+# Por que Escolher a GA Consultoria em Estatística?
+
+* **Especialização em Estatística Acadêmica**
+  - Nossa equipe é formada por profissionais altamente qualificados, com vasta experiência em atender as necessidades específicas de estudantes universitários.
+  
+* **Suporte Personalizado**
+  - Entendemos que cada projeto é único. Por isso, oferecemos um atendimento personalizado, adaptando nossas soluções às suas necessidades específicas.
+  
+  
+* **Ferramentas de Ponta** 
+  - Utilizamos as mais recentes ferramentas e técnicas de análise de dados para garantir resultados precisos e confiáveis.
+  
+* **Descomplicamos a Estatística**
+  - Nossa missão é tornar a estatística acessível e compreensível para todos os estudantes. Explicamos conceitos complexos de maneira clara e objetiva, facilitando seu aprendizado e sucesso acadêmico.
+  
+* **Confidencialidade e Ética** 
+  - Tratamos seus dados com total confidencialidade e seguimos rigorosamente os padrões éticos da profissão.
+
+# Nossos Serviços
+
+* Análise de Dados
+  - Transformamos seus dados brutos em informações significativas, ajudando você a interpretar os resultados e tirar conclusões precisas.
+  
+* Consultoria para Trabalhos Acadêmicos
+  - Oferecemos suporte completo para teses, dissertações, artigos científicos e outros projetos acadêmicos.
+
+* Treinamentos e Workshops
+  - Capacitação em técnicas estatísticas e uso de softwares especializados como R, Python, SPSS, e Excel.
+
+# Contato
+
+
+Pronto para dar um passo à frente em sua jornada acadêmica? Entre em contato conosco hoje mesmo e descubra como podemos ajudar você a alcançar seus objetivos.
+
+Telefone: (13) 99683-4390
+
+E-mail: gaconsultoriaestat@gmail.com
+
+Site: www.gaconsultoriaestat.com
+
+GA Consultoria em Estatística – Transformando Dados em Conhecimento, Sucesso e Inovação!

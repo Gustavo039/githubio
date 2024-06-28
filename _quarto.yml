@@ -1,5 +1,10 @@
 project:
   type: website
+  resources:
+    - keybase.txt
+    - resume.pdf
+    - GustavoASilva_Curriculo_PTBR.pdf
+    - GustavoASilva_Curriculo_EN.pdf
   output-dir: docs
   
 website:
@@ -8,8 +13,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - minicurso.qmd
-      - mat_ufjf.qmd
+      - href: pacotes.qmd
+        text: R Packages
+      - href: consultoria.qmd
+        text: Consultoria
+      - href: minicurso.qmd
+      - href: mat_ufjf.qmd
     tools:
       - icon: github
         href: https://github.com/Gustavo039
@@ -19,8 +28,5 @@ website:
 
 format:
   html:
-    theme: zephyr
-    toc: true
-
-editor: source
+    theme: [sandstone, _variables.scss]
 

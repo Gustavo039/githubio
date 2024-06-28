@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hey, Nice to Meet You",
+    "title": "Gustavo Almeida Silva",
     "section": "",
-    "text": "Welcome to my personal page\n\n\nWho I Am\n\n📚 Statistician/Last Period - Universidade Federal de Juiz de Fora\n😷 Epidemiological Researcher CNPq at JFSalvandoTodos\n💹 Working with time series models (ARMAX, GARMAX and NNETAR) for epidemiological forecast\n📊 Statistical Consultant for Postgraduate Students\n\n\nWhere You Can Find Me\n\n Linkedin\n Lattes\n gustavoalmeidasilva@ice.ufjf.br\n Github"
+    "text": "📚 Statistician - Federal University of Juiz de Fora\n😷 Epidemiological CNPq Fellow at JFSalvandoTodos\n💹 Time Series Models Researcher (ARIMA, GLARMA, INGARCH and NNETAR) for epidemiological forecast\n📊 Statistical Consultant for Postgraduate Students\n\n\n\nI am a statistics student at the Federal University of Juiz de Fora, currently in the final period of the program. As a Scientific Initiation Fellow on the social and epidemiological data analysis platform JF Salvando Todos, i have gained experience in automated data collection and cleaning, creating web pages with RShiny, and data analysis and modeling. Currently working on inference and prediction of epidemiological data using time series models.\n\n\n\n\n\nLASSO AdaLASSO e WLAdaLASSO for Time Series\nfableCount 2.0, a new forecast era\n\n\n\nfableCount | Count Time Series Modelling | 2024\nMmcsd | Modeling Complex Longitudinal Data | 2023"
   },
   {
     "objectID": "minicurso_tidy.html",
@@ -30,23 +30,23 @@
   {
     "objectID": "minicurso.html",
     "href": "minicurso.html",
-    "title": "Minicurso Tidyverse",
+    "title": "Minicurso - Tidyverse",
     "section": "",
-    "text": "Aula 1 Aula 2 Aula 3 Aula 4 Aula 5 Aula Extra - Git, GitHub e Rstudio"
+    "text": "O minicurso de introdução a limpeza e manipulação de dados utilizando os pacotes do Tidyverse, oferecido pelo Departamento de Estatística da UFJF, foi ministrado por mim em Dezembro de 2023 para os alunos de todos os campos do conhecimento. As aulas e materiais desenvolvidos podem ser acessados através dessa página\n\n\n\nAula 1 - Motivação e o Operador Pipe\nAula 2 - Dados Tidy\nAula 3 - Modificando Variáveis e Mudando a Forma dos Dados\nAula 4 - Pares de Tabelas e Grupos de Variáveis\nAula 5 - Teste Final\nAula Extra - Git, GitHub e Rstudio\n\n\n\nCanal - Encontros com a Estatística - Dep. Est. Universidade Federal de Juiz de Fora\n\n\n\n\n\nEmenta e introdução\nFluxo de Análise Estatística e os pacotes Tidy\nO Pipe e Funções Anônimas\n\n\n\nObjetos Tabulares do R\nDados Organizados\nBotando a Mão na Massa\nDesafios\n\n\n\nModificando Variáveis\nMV - Funções Auxiliares\nPivotagem\nExtra - Limpeza Dados Epidemiológicos\nDesafios\n\n\n\nJunção de Pares de Tabelas\nDados Agrupados\nDesafios\n\n\n\nTeste Final\n\n\n\n\n\nSolicitações de certificado devem ser realizados até o dia 14/02/2024 através do email encontros.estatistica@ice.ufjf.br"
   },
   {
     "objectID": "minicurso.html#aula-1",
     "href": "minicurso.html#aula-1",
-    "title": "Minicurso Tidyverse",
-    "section": "Aula 1",
-    "text": "Aula 1\nEmenta e introdução\nFluxo de Análise Estatística e os pacotes Tidy\nO Pipe e Funções Anônimas"
+    "title": "Minicurso - Tidyverse",
+    "section": "",
+    "text": "Ementa e introdução\nFluxo de Análise Estatística e os pacotes Tidy\nO Pipe e Funções Anônimas"
   },
   {
     "objectID": "mat_ufjf.html",
     "href": "mat_ufjf.html",
-    "title": "Matérias - UFJF",
+    "title": "Disciplinas - UFJF",
     "section": "",
-    "text": "Essa página tem como objetivo facilitar o acesso e visualização de trabalhos por parte dos docentes de cada disciplina\n\nAprendizado de Máquina\nAgrupamento e Modelos de Misturas - Flexmix\nLASSO AdaLASSO e WLAdaLASSO para Séries Temporais\n\n\nSéries Temporais\nModelagem Consumo Energético no Brasil - Relatório\nModelagem Consumo Energético no Brasil - Apresentação\n\n\nModelos Lineares Generalizados\nModelos Lineares Generalizados Duplos - Artigo\nModelos Lineares Generalizados Duplos - Apresentação\n\n\nAnálise de Regressão\nPredição de Valores de Carros Usados - Relatório\nPredição de Valores de Carros Usados - Apresentação\n\n\nAmostragem 2\nAvaliação Computacional dos Estimadores de Horvitz-Thompson em Planos Complexos - Artigo"
+    "text": "Essa página busca facilitar a entrega e visualização de trabalhos de cada disciplina\n\nAprendizado de Máquina\nAgrupamento e Modelos de Misturas - Flexmix\nLASSO AdaLASSO e WLAdaLASSO para Séries Temporais\n\n\nSéries Temporais\nModelagem Consumo Energético no Brasil - Relatório\nModelagem Consumo Energético no Brasil - Apresentação\n\n\nModelos Lineares Generalizados\nModelos Lineares Generalizados Duplos - Artigo\nModelos Lineares Generalizados Duplos - Apresentação\n\n\nAnálise de Regressão\nPredição de Valores de Carros Usados - Relatório\nPredição de Valores de Carros Usados - Apresentação\n\n\nAmostragem 2\nAvaliação Computacional dos Estimadores de Horvitz-Thompson em Planos Complexos - Artigo"
   },
   {
     "objectID": "arquivos_materias/index.html",
@@ -58,29 +58,85 @@
   {
     "objectID": "minicurso.html#aula-2",
     "href": "minicurso.html#aula-2",
-    "title": "Minicurso Tidyverse",
-    "section": "Aula 2",
-    "text": "Aula 2\nObjetos Tabulares do R\nDados Organizados\nBotando a Mão na Massa\nDesafios"
+    "title": "Minicurso - Tidyverse",
+    "section": "",
+    "text": "Objetos Tabulares do R\nDados Organizados\nBotando a Mão na Massa\nDesafios"
   },
   {
     "objectID": "minicurso.html#aula-3",
     "href": "minicurso.html#aula-3",
-    "title": "Minicurso Tidyverse",
-    "section": "Aula 3",
-    "text": "Aula 3\nModificando Variáveis\nMV - Funções Auxiliares\nPivotagem\nExtra - Limpeza Dados Epidemiológicos\nDesafios"
+    "title": "Minicurso - Tidyverse",
+    "section": "",
+    "text": "Modificando Variáveis\nMV - Funções Auxiliares\nPivotagem\nExtra - Limpeza Dados Epidemiológicos\nDesafios"
   },
   {
     "objectID": "minicurso.html#aula-4",
     "href": "minicurso.html#aula-4",
-    "title": "Minicurso Tidyverse",
-    "section": "Aula 4",
-    "text": "Aula 4\nJunção de Pares de Tabelas\nDados Agrupados\nDesafios"
+    "title": "Minicurso - Tidyverse",
+    "section": "",
+    "text": "Junção de Pares de Tabelas\nDados Agrupados\nDesafios"
   },
   {
     "objectID": "minicurso.html#aula-5",
     "href": "minicurso.html#aula-5",
-    "title": "Minicurso Tidyverse",
-    "section": "Aula 5",
-    "text": "Aula 5\nTeste Final"
+    "title": "Minicurso - Tidyverse",
+    "section": "",
+    "text": "Teste Final"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Gustavo Almeida Silva",
+    "section": "",
+    "text": "📚 Statistician - Federal University of Juiz de Fora\n😷 Epidemiological CNPq Fellow at JFSalvandoTodos\n💹 Time Series Models Researcher (ARIMA, GLARMA, INGARCH and NNETAR) for epidemiological forecast\n📊 Statistical Consultant for Postgraduate Students"
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Gustavo Almeida Silva",
+    "section": "",
+    "text": "Filtering ground noise from LiDAR returns produces inferior models of forest aboveground biomass in heterogenous landscapes. Mahoney, MJ, Johnson, LK, Bevilacqua, E, and Beier, CM. 2022. GIScience & Remote Sensing 59(1): 1266-1280. https://doi.org/10.1080/15481603.2022.2103069\nClassification and mapping of low-statured shrubland cover types in post-agricultural landscapes of the US Northeast. Mahoney, MJ, Johnson, LK, Guinan, AZ, and Beier, CM. 2022. International Journal of Remote Sensing 43(19-24): 7117-7138. https://doi.org/10.1080/01431161.2022.2155086\nunifir: A Unifying API for Interacting with Unity from R. Mahoney, MJ, Beier, CM, and Ackerman, AC. 2022. Journal of Open Source Software 7(73): 4388. https://doi.org/10.21105/joss.04388\nterrainr: An R package for creating immersive virtual environments. Mahoney, MJ, Beier, CM, and Ackerman, AC. 2022. Journal of Open Source Software, 7(69): 4060. https://doi.org/10.21105/joss.04060\n\n\n\nwaywiser | Ergonomic Methods for Assessing Spatial Models | 2023\nspatialsample | Spatial Resampling Infrastructure | 2022\nunifir | A Unifying API for Working with Unity in R | 2022\nterrainr | Retrieve Data from the USGS National Map and Transform it for 3D Landscape Visualizations | 2021"
+  },
+  {
+    "objectID": "index.html#last-projects",
+    "href": "index.html#last-projects",
+    "title": "Gustavo Almeida Silva",
+    "section": "",
+    "text": "fableCount | Count Time Series Modelling | 2024\nMmcsd | Modeling Complex Longitudinal Data | 2023"
+  },
+  {
+    "objectID": "consultoria.html",
+    "href": "consultoria.html",
+    "title": "Contato",
+    "section": "",
+    "text": "GA Consultoria em Estatística: Transforme Seus Dados em Conhecimento\nVocê é um estudante de graduação ou pós-graduação e precisa de ajuda com a análise de dados? Na GA Consultoria em Estatística, estamos aqui para ajudar você a transformar seus dados em insights valiosos e resultados de alta qualidade.\n\nPor que Escolher a GA Consultoria em Estatística?\n\nEspecialização em Estatística Acadêmica\n\nNossa equipe é formada por profissionais altamente qualificados, com vasta experiência em atender as necessidades específicas de estudantes universitários.\n\nSuporte Personalizado\n\nEntendemos que cada projeto é único. Por isso, oferecemos um atendimento personalizado, adaptando nossas soluções às suas necessidades específicas.\n\nFerramentas de Ponta\n\nUtilizamos as mais recentes ferramentas e técnicas de análise de dados para garantir resultados precisos e confiáveis.\n\nDescomplicamos a Estatística\n\nNossa missão é tornar a estatística acessível e compreensível para todos os estudantes. Explicamos conceitos complexos de maneira clara e objetiva, facilitando seu aprendizado e sucesso acadêmico.\n\nConfidencialidade e Ética\n\nTratamos seus dados com total confidencialidade e seguimos rigorosamente os padrões éticos da profissão.\n\n\n\n\nNossos Serviços\n\nAnálise de Dados\n\nTransformamos seus dados brutos em informações significativas, ajudando você a interpretar os resultados e tirar conclusões precisas.\n\nConsultoria para Trabalhos Acadêmicos\n\nOferecemos suporte completo para teses, dissertações, artigos científicos e outros projetos acadêmicos.\n\nTreinamentos e Workshops\n\nCapacitação em técnicas estatísticas e uso de softwares especializados como R, Python, SPSS, e Excel.\n\n\n\n\nContato\nPronto para dar um passo à frente em sua jornada acadêmica? Entre em contato conosco hoje mesmo e descubra como podemos ajudar você a alcançar seus objetivos.\nTelefone: (13) 99683-4390\nE-mail: gaconsultoriaestat@gmail.com\nSite: www.gaconsultoriaestat.com\nGA Consultoria em Estatística – Transformando Dados em Conhecimento, Sucesso e Inovação!"
+  },
+  {
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "Gustavo Almeida Silva",
+    "section": "",
+    "text": "I am a statistics student at the Federal University of Juiz de Fora, currently in the final period of the program. As a Scientific Initiation Fellow on the social and epidemiological data analysis platform JF Salvando Todos, i have gained experience in automated data collection and cleaning, creating web pages with RShiny, and data analysis and modeling. Currently working on inference and prediction of epidemiological data using time series models."
+  },
+  {
+    "objectID": "pacotes.html",
+    "href": "pacotes.html",
+    "title": "R Packages",
+    "section": "",
+    "text": "This page contains the R packages developed during the my undergraduate period\n\n\nThe fableCount R package aims to offer counting time series models for users of the fable framework. These models work within the fable framework, which provides the tools to evaluate, visualize, and combine models in a workflow consistent with the tidyverse.\n\nfableCount - Official Site\nfableCount - CRAN Reference\n\n\n\n\nAbbreviation for Multivariate Models for Complex Survey Data. Matching longitudinal methodology models with complex sampling design. It fits fixed and random effects models and covariance structured models so far. It also provides tools to perform statistical tests considering these specifications as described in : Pacheco, P. H. (2021). “Modeling complex longitudinal data in R: development of a statistical package https://repositorio.ufjf.br/jspui/bitstream/ufjf/13437/1/pedrohenriquedemesquitapacheco.pdf\n\nMmcsd - CRAN Reference\nMmcsd - Official Vignette"
+  },
+  {
+    "objectID": "pacotes.html#fablecount---author",
+    "href": "pacotes.html#fablecount---author",
+    "title": "R Packages",
+    "section": "",
+    "text": "The fableCount R package aims to offer counting time series models for users of the fable framework. These models work within the fable framework, which provides the tools to evaluate, visualize, and combine models in a workflow consistent with the tidyverse.\n\nfableCount - Official Site\nfableCount - CRAN Reference"
+  },
+  {
+    "objectID": "pacotes.html#mmcsd---coauthor",
+    "href": "pacotes.html#mmcsd---coauthor",
+    "title": "R Packages",
+    "section": "",
+    "text": "Abbreviation for Multivariate Models for Complex Survey Data. Matching longitudinal methodology models with complex sampling design. It fits fixed and random effects models and covariance structured models so far. It also provides tools to perform statistical tests considering these specifications as described in : Pacheco, P. H. (2021). “Modeling complex longitudinal data in R: development of a statistical package https://repositorio.ufjf.br/jspui/bitstream/ufjf/13437/1/pedrohenriquedemesquitapacheco.pdf\n\nMmcsd - CRAN Reference\nMmcsd - Official Vignette"
   }
 ]
