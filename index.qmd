@@ -1,5 +1,8 @@
 ---
 title: "Gustavo Almeida Silva"
+format:
+  html:
+    css: css_file.css
 image: img/gustavo_foto_perfil.jpg
 about:
   template: trestles
@@ -19,11 +22,12 @@ comments: false
 ---
 ::: {.column-page}
 
-## Bio
+## Bio 
+
+
+<span class="jf-emoji"></span></span> Epidemiological CNPq Fellow at JFSalvandoTodos
 
 📚 Statistician - Federal University of Juiz de Fora
-
-😷 Epidemiological CNPq Fellow at JFSalvandoTodos
 
 💹 Time Series Models Researcher (ARIMA, GLARMA, INGARCH and NNETAR) for epidemiological forecast
 

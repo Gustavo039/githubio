@@ -2,9 +2,8 @@ project:
   type: website
   resources:
     - keybase.txt
-    - resume.pdf
-    - cv/GustavoASilva_Curriculo_PTBR.pdf
-    - cv/GustavoASilva_Curriculo_EN.pdf
+    - GustavoASilva_Curriculo_PTBR.pdf
+    - GustavoASilva_Curriculo_EN.pdf
   output-dir: docs
   
 website:

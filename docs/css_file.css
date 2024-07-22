@@ -1,0 +1,26 @@
+.itau-emoji::before {
+    content: url('./emoji/itau_logo.png'); /* Replace with the path to your emoji image */
+    display: inline-block;
+    width: 1em;  /* Adjust size as needed */
+    height: 1em; /* Adjust size as needed */
+    vertical-align: middle; /* Align emoji with text */
+    position: relative;
+    top: -0.7em; /* Adjust vertical alignment if needed */
+    left: -0.5em; /* Adjust horizontal alignment if needed */
+    transform: scale(0.0190); /* Adjust the scale as needed */
+    margin-right: 0.5em;
+}
+
+
+.jf-emoji::before {
+    content: url('./emoji/jf_logo.png'); /* Replace with the path to your emoji image */
+    display: inline-block;
+    width: 1em;  /* Adjust size as needed */
+    height: 1em; /* Adjust size as needed */
+    vertical-align: middle; /* Align emoji with text */
+    position: relative;
+    top: -0.5em; /* Adjust vertical alignment if needed */
+    left: -0.6em; /* Adjust horizontal alignment if needed */
+    transform: scale(0.19); /* Adjust the scale as needed */
+    margin-right: 0.5em;
+}

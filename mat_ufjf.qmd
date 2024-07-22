@@ -10,6 +10,10 @@ Essa página busca facilitar a entrega e visualização de trabalhos de cada dis
 
 [LASSO AdaLASSO e WLAdaLASSO para Séries Temporais](arquivos_materias/LASSO_TS.html)
 
+[Redes Neurais na Avaliação de Risco de Crédito: Modelagem e Aplicações - Apresentação](arquivos_materias/credito_redesneurais_apresentacao.pdf)
+
+[Redes Neurais na Avaliação de Risco de Crédito: Modelagem e Aplicações - Relatório](arquivos_materias/credito_redesneurais_relatorio.html)
+
 # Séries Temporais
 
 [Modelagem Consumo Energético no Brasil - Relatório](arquivos_materias/AnaliseModelagemdoConsumodeEnergiaElétricanoBrasil.pdf)
